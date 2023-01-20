@@ -1,17 +1,17 @@
-# Nome do meu projeto
+# Freeway com JS
 
-Rápida descrição do objetivo de fazer esse projeto
+Com a criação deste projeto pude ter um contato inical com Javascript.
 
-| :placard: Vitrine.Dev |     |
+| Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Freeway com JS**
+| :label: Tecnologias | java, html, css
+| :rocket: URL (código np GitHub)        | https://github.com/adrianycmc/freewayComJS
+| :fire: Desafio     | https://editor.p5js.org/adrianycmc/full/z9xKCQbOX
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/adrianycmc/Freeway-com-JS/blob/main/1661777635098.gif)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Foi um projeto muito interessante desenvolvido em um curso de Java para iniciantes em programação na Alura.
